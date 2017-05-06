@@ -11,7 +11,7 @@ I am a post-graduate student in mathematics and theoretical computer science. My
  
 I am presently a PhD student in theory of computation group at the school of computer science in the University of Birmingham. 
 I am also one of the organizers of category theory reading group (CARGO) at at the school of computer science in the University of Birmingham:
-[CARGO](http://talks.bham.ac.uk/show/archive/1233 "CARGO")
+[http://talks.bham.ac.uk/show/archive/1233](http://talks.bham.ac.uk/show/archive/1233 "CARGO")
 
 
 ### Contact me
