@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Sina
+name: Sina Hazratpour
 
 # Short bio or description (displayed in the header)
 description: Mathematician
@@ -16,8 +16,8 @@ avatar: https://raw.githubusercontent.com/sinhp/Sina-Hazratpour/master/images/My
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email:   sinahazratpour@gmail.com
+  facebook:  https://www.facebook.com/sina.bham
   flickr:
   github: sinhp/sinhp.github.io.
   instagram:
