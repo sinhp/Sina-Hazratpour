@@ -20,7 +20,7 @@ Cover of the book
   * Positive liberty
 3. Usefeulness of the distinction
 4. Is it always possible to distinguish between these two in different scenarios of human affairs? 
-5. 
+5. The way forward
 
 
 > But if we are not armed with an _a priori_ guarantee of the proposition that a total harmony o true values is somewhere to be found- perhaps in some ideal realm the characteristics which we can, in our finite state, not so much as conceive- we must fall back on the ordinary resources of empirical observation and ordinary human knowledge. And these certainly give us no warrant for supporting (or even understanding what would be meant by saying) that all good things, or all bad things for that matter, are reconcilable with each other. The world that we encounter in ordinary experience is one in which we are faced with choices between ends equally ultimate, and claims equally absolute, the realization of some of which must inevitably involve the sacrifice of others. Indeed, it is because this is their situation that men place such immense values upon the freedom to choose.     
