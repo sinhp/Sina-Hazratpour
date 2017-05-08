@@ -8,10 +8,10 @@ title: Welcome to my blog!
 
 # Two concepts of liberty 
 
-I recently read Isaiah Berlin's famous essay *two concepts of liberty*  
-[two concepts of liberty][1] in which he delineates between two different version of historical understanding of the notion of liberty by western societies; the __positive__ and __negative__ liberty. In this article I will try to first share my understanding of this essay and emphasise the importance and usefulness of having this distinction in mind for our political discourse. Finally, I want to hint at insufficiency of this dichotomy in characterizing the notion of liberty in the realms of participation in political projects and also of relationships. 
+I recently read Isaiah Berlin's famous essay [two concepts of liberty][1] in which he delineates between two different versions of historical understanding of the notion of liberty by western societies; the and __negative__  and __positive__ liberty. The idea of neagtive nad postove liberty is not due to Berlin hismself and goes back at least to Kant. ([negative and positive liberty][2] In this post I will try to first share my understanding of this essay and emphasise the importance and usefulness of having this distinction in mind for our political discourse. Finally, I want to hint at insufficiency of this dichotomy in characterizing the notion of liberty in the realms of participation in shared political projects and also in relationships and love. 
 
 
 
 
 [1]: https://en.wikipedia.org/wiki/Two_Concepts_of_Liberty
+[2]: https://plato.stanford.edu/entries/liberty-positive-negative/
