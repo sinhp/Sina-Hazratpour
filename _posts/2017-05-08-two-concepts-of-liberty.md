@@ -13,8 +13,8 @@ I recently read Isaiah Berlin's famous essay [two concepts of liberty][1] in whi
 
 
 1. Two sorts of liberty 
-..*. Negative liberty
-..*. Positive liberty
+..* Negative liberty
+..* Positive liberty
 3. Usefeulness of the distinction
 4. Is it always possible to distinguish between these two in different scenarios of human affairs? 
 5. 
