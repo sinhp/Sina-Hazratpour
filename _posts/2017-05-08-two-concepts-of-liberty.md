@@ -25,4 +25,4 @@ Cover of the book:
 
 [1]: https://en.wikipedia.org/wiki/Two_Concepts_of_Liberty
 [2]: https://plato.stanford.edu/entries/liberty-positive-negative/
-[logo]: https://github.com/sinhp/sinhp.github.io/images/FourEssays.JPG 
+[logo]: https://github.com/sinhp/sinhp.github.io/images/FourEssays.jpg 
