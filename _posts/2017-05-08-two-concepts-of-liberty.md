@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: On two concepts of liberty!
 date: 2017-05-08
 ---
