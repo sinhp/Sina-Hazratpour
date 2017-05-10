@@ -84,3 +84,5 @@ exclude:
   - CNAME
 
 theme: jekyll-theme-cayman
+permalink: /blog/:year/:month/:day/:title
+
