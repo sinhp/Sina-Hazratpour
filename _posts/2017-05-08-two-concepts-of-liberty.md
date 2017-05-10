@@ -2,6 +2,7 @@
 layout: post
 title: On two concepts of liberty
 date: 2017-05-08
+comments: true
 ---
 
 
