@@ -1,6 +1,6 @@
 ---
 layout: Post
-title: Welcome to my blog!
+title: On two concepts of liberty!
 ---
 
 
