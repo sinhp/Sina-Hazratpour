@@ -15,7 +15,7 @@ Make sure you check this [guide](http://jmcglone.com/guides/github-pages/) as we
 ### Why Github at all? 
 
 You can do so much with Jekyll. Some of the best web developers use it for building their own websites. Here is a good examples:
-[CSS Wizardy](https://csswizardry.com/about/#colophon).
+[CSS Wizardy](https://csswizardry.com/about/).
 
 But if you are, like me, an academic and want to publish your website with the help of Jekyll as fast as possible, you may be interested in reading
 [Github for academics](http://blogs.lse.ac.uk/impactofsocialsciences/2013/06/04/github-for-academics/).
