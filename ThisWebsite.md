@@ -6,7 +6,7 @@ permalink: /ThisWebsite/
 
 
 
-This website is hosted on **GitHub** and it is created by [**Jekyll Now**](http://www.jekyllnow.com/) , a more user-friendly version of [**Jekyll**](https://jekyllrb.com/) and perfect for building minimal and static, yet beautiful,secure, and stable websites. A really quick and easy-to-follow guide is provided [here](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/). For a quick start, you can also find the source code for setting up your own website at [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now).  
+This website is hosted on **GitHub** and it is created by [**Jekyll Now**](http://www.jekyllnow.com/) , a more user-friendly version of [**Jekyll**](https://jekyllrb.com/) and perfect for building minimal and static, yet beautiful, secure, and stable websites. A really quick and easy-to-follow guide is provided [here](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/). For a quick start, you can also find the source code for setting up your own website at [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now).  
 
 Make sure you check this [guide](http://jmcglone.com/guides/github-pages/) as well. Personally, I found it very useful and succinct. 
 
