@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is positive liberty?
+title: How to think about liberty?
 date: 2017-05-08
 comments: true
 ---
