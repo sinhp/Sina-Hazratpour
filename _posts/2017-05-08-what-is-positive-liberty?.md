@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On two concepts of liberty
+title: What is positive liberty?
 date: 2017-05-08
 comments: true
 ---
