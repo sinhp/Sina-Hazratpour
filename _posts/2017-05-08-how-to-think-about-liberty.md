@@ -38,18 +38,20 @@ For the purpose of this post, I merely intend to report my understanding of his 
 
 ## <a name="TwoWays"> </a> Two ways of conceiving the concept of liberty
 
-
-First, the idea of negative and positive liberty is not due to Berlin hismself and goes back at least to Kant. ([negative and positive liberty][2]). The terms *positive* and *negative* do not signify moral judgements, but rather are indicative of their philosophical meaning. As Berlin writes 
+There are myriad of ways that human beings think and have thouhgt about their freedom in many different contexts. What Berlin does in this essay is demonstrating that the two modes of thinking about liberty, that is *positive* and *negative*,  are more fundamental and more inclusive than any other modes. Almost all formulations somehow will fall into one of this divisons.
+First, the idea of negative and positive liberty is not due to Berlin hismself and goes back at least to Kant. ([negative and positive liberty][2]). The terms "positive" and "negative" do not signify moral judgements on the kinds of freedom, but rather are indicative of their philosophical meanings. As Berlin writes 
 
 > The "positive" sense of the word "liberty" derives from the wish on the part of the individual to be his own master. 
 
+He goes on to formulate two crucial and definitive aspects of positive liberty: [autonomy][4] and self-realization. It is certianly far beyond the scope of this post to say anything intelligible about autonomy except that to refer the reader to the link above. 
 
+Having had the experience of teaching, tutoring, and demonstrating mathematics to all sort of folks on numeruous occasssions, it seems appealing and palpable to me, and most likely to most people, to explain self-relization and its relation to the notion of positive liberty by the use of following analogy.   
 
 
 Finally, I want to hint at insufficiency of this dichotomy in characterizing the notion of liberty in the realms of participation in shared political projects and also in relationships and love. 
 
 
-
+###Money: a minimum freedom p.124 
 
 
 
@@ -63,3 +65,4 @@ Finally, I want to hint at insufficiency of this dichotomy in characterizing the
 [1]: https://en.wikipedia.org/wiki/Two_Concepts_of_Liberty
 [2]: https://plato.stanford.edu/entries/liberty-positive-negative/
 [3]: https://www.youtube.com/watch?v=zDAGngAc9_M
+[4]: https://plato.stanford.edu/entries/autonomy-moral/
