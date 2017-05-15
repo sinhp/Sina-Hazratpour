@@ -41,7 +41,7 @@ The idea of negative and positive liberty is not due to Berlin hismself and goes
 
 
 <figure>
-	<img src="{{ site.baseurl }}/thumbnail.jpg" alt="image">
+	<img src="{{ site.baseurl }}/Book-thumbnail.jpg" alt="image">
 	<figcaption>
 	Sunshine
 	</figcaption>
