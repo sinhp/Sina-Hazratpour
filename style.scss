@@ -51,11 +51,11 @@ a:hover {
 
 
 .article {
-  color: #333;
+  color: rgb(255,0,0);
   &__datetime {
     float: right;
     line-height: 2.1rem;
-    color: #999;
+    color: rgb(255,0,0);
     }
   &__footer {
     margin-top: 1.5em;
