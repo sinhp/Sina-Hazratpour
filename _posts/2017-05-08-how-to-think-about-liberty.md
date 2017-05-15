@@ -14,10 +14,10 @@ thumbnail: Freiheit.jpg
 
 # The famous essay
 
-I recently read Isaiah Berlin's famous essay [two concepts of liberty][1] in which he delineates between two different historical understanding of the notion of liberty by western societies; the __negative__  and __positive__ liberty. The essay is very clear in exposition, rich in terms of numerous ideas and historical references. However, for the purpose of this post, I only intend to report on his crucial distinction between theses concepts of liberty.  
+I recently read Isaiah Berlin's famous essay [two concepts of liberty][1] in which he delineates between two different historical understanding of the notion of liberty; the __negative__  and __positive__ liberty chiefly in their political sense. The essay is both concise and very clear in exposition, and  rich in terms of various historical events and references. After rerading it, I felt I was left with a sense of real and original intellectual force. 
 
 
-Before we delve more into the philsophical contemplation, if you are curious about Berlin's personality and his life, here is a pretty cool [BBC documentary][3] featuring an interview with him. You will learn amazing facts about his interactions with giant intellectuals of 20th century, most notably J. L. Austin, A. J. Ayer, Ludwig Wittgenstein, John Maynard Keynes and Virginia Woolf. His views about political upheavals of 20th century is enlightening as well. For instance, he mentions somewhere in the interview that the conservative British politicians from his college, All Soul College Oxford, such as Sir John Simon, Secretary of State for Foreign Affairs (1931-1935), regarded Soviet communism idealogically far worse than Nazi Germany and Hitler and Fascist Italy and considered growth of these dictatorial regimes as a shield against spread of communism!!! 
+For the purpose of this post, I merely intend to report my understanding of his formulation of the crucial distinction between theses two concepts of liberty and the importance and usefulness of having this distinction in mind for our political discourse. However, before we delve into our philsophical contemplation, here is a pretty cool [BBC documentary][3] featuring an interview with him.  iI you are curious about Berlin's personality and his life, I will totally recommend it. You will learn amazing facts about his interactions with giant intellectuals of 20th century, most notably J. L. Austin, A. J. Ayer, Ludwig Wittgenstein, John Maynard Keynes and Virginia Woolf. His views about political upheavals of 20th century is enlightening as well. For instance, he mentions somewhere in the interview that the conservative British politicians from his college, All Soul College Oxford, such as Sir John Simon, Secretary of State for Foreign Affairs (1931-1935), regarded Soviet communism idealogically far worse than Nazi Germany and Hitler and Fascist Italy and considered growth of these dictatorial regimes as a shield against spread of communism!!! 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zDAGngAc9_M" frameborder="0" allowfullscreen></iframe>
@@ -30,8 +30,8 @@ Before we delve more into the philsophical contemplation, if you are curious abo
 
 
 1. [Two ways of conceiving concept of liberty](#TwoWays) 
-  * Negative liberty
-  * Positive liberty
+  * Negative liberty (#NegLib)
+  * Positive liberty (#PosLib)
 3. Usefeulness of the distinction
 4. Is it always possible to distinguish between these two in different scenarios of human affairs? 
 5. The way forward
@@ -39,8 +39,14 @@ Before we delve more into the philsophical contemplation, if you are curious abo
 ## <a name="TwoWays"> </a> Two ways of conceiving the concept of liberty
 
 
+First, the idea of negative and positive liberty is not due to Berlin hismself and goes back at least to Kant. ([negative and positive liberty][2]). The terms *positive* and *negative* do not signify moral judgements, but rather are indicative of their philosophical meaning. As Berlin writes 
 
-The idea of negative and positive liberty is not due to Berlin hismself and goes back at least to Kant. ([negative and positive liberty][2]) In this post I will try to first share my understanding of this essay and emphasise the importance and usefulness of having this distinction in mind for our political discourse. Finally, I want to hint at insufficiency of this dichotomy in characterizing the notion of liberty in the realms of participation in shared political projects and also in relationships and love. 
+> The "positive" sense of the word "liberty" derives from the wish on the part of the individual to be his own master. 
+
+
+
+
+Finally, I want to hint at insufficiency of this dichotomy in characterizing the notion of liberty in the realms of participation in shared political projects and also in relationships and love. 
 
 
 
