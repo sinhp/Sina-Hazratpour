@@ -42,9 +42,7 @@ The idea of negative and positive liberty is not due to Berlin hismself and goes
 
 <figure>
 	<img src="{{ site.baseurl }}/images/Freiheit.jpg" alt="image">
-	<figcaption>
 	
-	</figcaption>
 </figure>
 
 
