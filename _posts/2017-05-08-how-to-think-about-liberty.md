@@ -40,15 +40,12 @@ The idea of negative and positive liberty is not due to Berlin hismself and goes
 > But if we are not armed with an _a priori_ guarantee of the proposition that a total harmony o true values is somewhere to be found- perhaps in some ideal realm the characteristics which we can, in our finite state, not so much as conceive- we must fall back on the ordinary resources of empirical observation and ordinary human knowledge. And these certainly give us no warrant for supporting (or even understanding what would be meant by saying) that all good things, or all bad things for that matter, are reconcilable with each other. The world that we encounter in ordinary experience is one in which we are faced with choices between ends equally ultimate, and claims equally absolute, the realization of some of which must inevitably involve the sacrifice of others. Indeed, it is because this is their situation that men place such immense values upon the freedom to choose.     
 
 
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
-
-
+<figure>
+	<img src="{{ site.baseurl }}/thumbnail.jpg" alt="image">
+	<figcaption>
+	Sunchine
+	</figcaption>
+</figure>
 
 
 
