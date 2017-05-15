@@ -53,6 +53,18 @@ a:hover {
 
 
 
+$base-color: turquoise;
+$light-color: lighten($base-color, 15%);
+$dark-color: darken($base-color, 25%);
+$headers-font-style: italic;
+$radius: .9em;
+
+
+
+
+
+
+
 .nav {
   text-align: center;
   }
@@ -96,7 +108,8 @@ a:hover {
         height: 150px;
         background: rgba(255, 255, 255, .4);
         }
-SPAN {
+
+    SPAN {
       display: inline-block;
       position: relative;
       z-index: 1;
@@ -106,8 +119,7 @@ SPAN {
       font-style: italic;
       transition: all .4s;
       }
-	  
-&--home {
+    &--home {
       background-image: url(http://img-fotki.yandex.ru/get/5314/5091629.67/0_5ba15_745b5d41_orig.png);
       }
     &--blog {
@@ -116,14 +128,41 @@ SPAN {
     &--gallery {
       background-image: url(http://img-fotki.yandex.ru/get/5413/5091629.67/0_5ba11_d4e50331_orig.png);
       }
-  }	  
+  }
 
 
-H1,
-H2,
 .nav {
   font-style: $headers-font-style;
 }
+
+H1 {
+  margin: 1.5rem 0;
+  padding: .5rem;
+  border-style: solid;
+  border-color: $light-color transparent;
+  border-width: 2px 0;
+  text-align: center;
+  font-size: 2em;
+  }
+
+H2 {
+  margin: 0 0 1rem;
+  font-size: 1.5em;
+  }
+
+.article {
+  color: #333;
+  &__datetime {
+    float: right;
+    line-height: 2.1rem;
+    color: #999;
+    }
+  &__footer {
+    margin-top: 1.5em;
+    text-align: right;
+    }
+  }
+
 
 
 
