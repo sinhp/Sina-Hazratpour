@@ -53,102 +53,7 @@ a:hover {
 
 
 
-$base-color: turquoise;
-$light-color: lighten($base-color, 15%);
-$dark-color: darken($base-color, 25%);
-$headers-font-style: italic;
-$radius: .9em;
 
-
-
-
-
-
-
-.nav {
-  text-align: center;
-  }
-  .nav__item {
-    display: inline-block;
-    position: relative;
-    width: 120px;
-    height: 120px;
-    margin: 0 1.5rem;
-    border-radius: 50%;
-    background-color: $base-color;
-    background-blend-mode: luminosity;
-    text-decoration: none;
-    text-transform: capitalize;
-    color: #000;
-    
-    &:hover {
-      background-blend-mode: normal;
-      }
-  
-    &:before {
-      content: "";
-      display: inline-block;
-      height: 120px;
-      vertical-align: middle;
-      }
-    &:after {
-      content: "";
-      display: block;
-      position: absolute;
-      top: 0;
-      right: 0;
-      bottom: 0;
-      left: 0;
-      margin: auto;
-      height: 2.5rem;
-      background: rgba(255, 255, 255, .6);
-      transition: all .4s;
-      }
-      &:hover:after {
-        height: 150px;
-        background: rgba(255, 255, 255, .4);
-        }
-
-    SPAN {
-      display: inline-block;
-      position: relative;
-      z-index: 1;
-      vertical-align: middle;
-      width: 90%;
-      font-size: 1.2em;
-      font-style: italic;
-      transition: all .4s;
-      }
-    &--home {
-      background-image: url(http://img-fotki.yandex.ru/get/5314/5091629.67/0_5ba15_745b5d41_orig.png);
-      }
-    &--blog {
-      background-image: url(http://img-fotki.yandex.ru/get/5413/5091629.67/0_5ba12_81d03a82_orig.png);
-      }
-    &--gallery {
-      background-image: url(http://img-fotki.yandex.ru/get/5413/5091629.67/0_5ba11_d4e50331_orig.png);
-      }
-  }
-
-
-.nav {
-  font-style: $headers-font-style;
-}
-
-H1 {
-  margin: 1.5rem 0;
-  padding: .5rem;
-  border-style: solid;
-  border-color: $light-color transparent;
-  border-width: 2px 0;
-  text-align: center;
-  font-size: 2em;
-  }
-
-H2 {
-  margin: 0 0 1rem;
-  font-size: 1.5em;
-  }
 
 .article {
   color: #333;
@@ -168,7 +73,7 @@ H2 {
 
 
 .container {
-  margin: 15px auto;
+  margin: 50px auto;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
@@ -406,14 +311,7 @@ nav {
   }
 
 	
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
-}
 
-ul.posts li {
-    list-style: none;
-}	
 	
 	
   .comments {
