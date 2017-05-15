@@ -30,11 +30,12 @@ For the purpose of this post, I merely intend to report my understanding of his 
 
 
 1. [Two ways of conceiving concept of liberty](#TwoWays) 
-  * Negative liberty (#NegLib)
-  * Positive liberty (#PosLib)
-3. Usefeulness of the distinction
+  * Negative liberty 
+  * Positive liberty 
+2. Usefeulness of the distinction
+3. Where could we go wrong? 
 4. Is it always possible to distinguish between these two in different scenarios of human affairs? 
-5. The way forward
+
 
 ## <a name="TwoWays"> </a> Two ways of conceiving the concept of liberty
 
@@ -51,7 +52,7 @@ Having had the experience of teaching, tutoring, and demonstrating mathematics t
 Finally, I want to hint at insufficiency of this dichotomy in characterizing the notion of liberty in the realms of participation in shared political projects and also in relationships and love. 
 
 
-###Money: a minimum freedom p.124 
+[//]: # (Money: provider of a minimum freedom p.124 )
 
 
 
