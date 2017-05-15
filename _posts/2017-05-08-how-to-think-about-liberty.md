@@ -28,21 +28,24 @@ Before we delve more into the philsophical contemplation, if you are curious abo
 
 
 
-The idea of negative and positive liberty is not due to Berlin hismself and goes back at least to Kant. ([negative and positive liberty][2]) In this post I will try to first share my understanding of this essay and emphasise the importance and usefulness of having this distinction in mind for our political discourse. Finally, I want to hint at insufficiency of this dichotomy in characterizing the notion of liberty in the realms of participation in shared political projects and also in relationships and love. 
 
-
-
-
-
-
-1. Two sorts of liberty 
+1. [Two ways of conceiving concept of liberty](#TwoWays) 
   * Negative liberty
   * Positive liberty
 3. Usefeulness of the distinction
 4. Is it always possible to distinguish between these two in different scenarios of human affairs? 
 5. The way forward
 
-## Two sorts of liberty
+## <a name="TwoWays"> </a> Two ways of conceiving the concept of liberty
+
+
+
+The idea of negative and positive liberty is not due to Berlin hismself and goes back at least to Kant. ([negative and positive liberty][2]) In this post I will try to first share my understanding of this essay and emphasise the importance and usefulness of having this distinction in mind for our political discourse. Finally, I want to hint at insufficiency of this dichotomy in characterizing the notion of liberty in the realms of participation in shared political projects and also in relationships and love. 
+
+
+
+
+
 
 > But if we are not armed with an _a priori_ guarantee of the proposition that a total harmony o true values is somewhere to be found- perhaps in some ideal realm the characteristics which we can, in our finite state, not so much as conceive- we must fall back on the ordinary resources of empirical observation and ordinary human knowledge. And these certainly give us no warrant for supporting (or even understanding what would be meant by saying) that all good things, or all bad things for that matter, are reconcilable with each other. The world that we encounter in ordinary experience is one in which we are faced with choices between ends equally ultimate, and claims equally absolute, the realization of some of which must inevitably involve the sacrifice of others. Indeed, it is because this is their situation that men place such immense values upon the freedom to choose.     
 
