@@ -13,7 +13,10 @@ comments: true
 I recently read Isaiah Berlin's famous essay [two concepts of liberty][1] in which he delineates between two different historical understanding of the notion of liberty by western societies; the __negative__  and __positive__ liberty. The essay is very clear in exposition, rich in terms of numerous ideas and historical references. However, for the purpose of this post, I only intend to report on his crucial distinction between theses concepts of liberty.  
 
 
-Before we delve more into the philsophical contemplation, I must say  you to know the man himself better.  
+Before we delve more into the philsophical contemplation, if you are curious about Berlin's personality and his life, here is a pretty cool BBC documentary about him featuring an interview with him. You will learn amazing facts about his interactions with giant intellectuals of 20th century, most notably J. L. Austin, A. J. Ayer, Ludwig Wittgenstein, John Maynard Keynes and Virginia Woolf. His views about political upheavals of 20th century is enlightening as well. For instance, he mentions somewhere in the interview that the conservative British politicians from his college, All Soul College Oxford, such as Sir John Simon, Secretary of State for Foreign Affairs (1931-1935), regarded Soviet communism idealogically far worse than Nazi Germany and Hitler and Fascist Italy and considered growth of these dictatorial regimes as a shield against spread of communism!!! 
+
+[Sir Isaiah Berlin interviewed about his life by Michael Ignatieff][3]
+
 
 The idea of negative and positive liberty is not due to Berlin hismself and goes back at least to Kant. ([negative and positive liberty][2]) In this post I will try to first share my understanding of this essay and emphasise the importance and usefulness of having this distinction in mind for our political discourse. Finally, I want to hint at insufficiency of this dichotomy in characterizing the notion of liberty in the realms of participation in shared political projects and also in relationships and love. 
 
@@ -36,4 +39,4 @@ The idea of negative and positive liberty is not due to Berlin hismself and goes
 
 [1]: https://en.wikipedia.org/wiki/Two_Concepts_of_Liberty
 [2]: https://plato.stanford.edu/entries/liberty-positive-negative/
-
+[3]: https://www.youtube.com/watch?v=zDAGngAc9_M
