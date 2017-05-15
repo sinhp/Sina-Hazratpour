@@ -13,12 +13,8 @@ comments: true
 I recently read Isaiah Berlin's famous essay [two concepts of liberty][1] in which he delineates between two different historical understanding of the notion of liberty by western societies; the __negative__  and __positive__ liberty. The essay is very clear in exposition, rich in terms of numerous ideas and historical references. However, for the purpose of this post, I only intend to report on his crucial distinction between theses concepts of liberty.  
 
 
-Before we delve more into the philsophical contemplation, if you are curious about Berlin's personality and his life, here is a pretty cool BBC documentary about him featuring an interview with him. You will learn amazing facts about his interactions with giant intellectuals of 20th century, most notably J. L. Austin, A. J. Ayer, Ludwig Wittgenstein, John Maynard Keynes and Virginia Woolf. His views about political upheavals of 20th century is enlightening as well. For instance, he mentions somewhere in the interview that the conservative British politicians from his college, All Soul College Oxford, such as Sir John Simon, Secretary of State for Foreign Affairs (1931-1935), regarded Soviet communism idealogically far worse than Nazi Germany and Hitler and Fascist Italy and considered growth of these dictatorial regimes as a shield against spread of communism!!! 
+Before we delve more into the philsophical contemplation, if you are curious about Berlin's personality and his life, here is a pretty cool [BBC documentary][3] featuring an interview with him. You will learn amazing facts about his interactions with giant intellectuals of 20th century, most notably J. L. Austin, A. J. Ayer, Ludwig Wittgenstein, John Maynard Keynes and Virginia Woolf. His views about political upheavals of 20th century is enlightening as well. For instance, he mentions somewhere in the interview that the conservative British politicians from his college, All Soul College Oxford, such as Sir John Simon, Secretary of State for Foreign Affairs (1931-1935), regarded Soviet communism idealogically far worse than Nazi Germany and Hitler and Fascist Italy and considered growth of these dictatorial regimes as a shield against spread of communism!!! 
 
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/zDAGngAc9_M.jpg)](https://www.youtube.com/watch?v=zDAGngAc9_M)
-
-[Sir Isaiah Berlin interviewed about his life by Michael Ignatieff][3]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zDAGngAc9_M" frameborder="0" allowfullscreen></iframe>
 
