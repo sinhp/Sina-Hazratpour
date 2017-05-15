@@ -23,7 +23,9 @@ Before we delve more into the philsophical contemplation, if you are curious abo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zDAGngAc9_M" frameborder="0" allowfullscreen></iframe>
 
 
+
 [//]: # (A good source for Berlin's podcasts: https://podcasts.ox.ac.uk/people/isaiah-berlin)
+
 
 
 The idea of negative and positive liberty is not due to Berlin hismself and goes back at least to Kant. ([negative and positive liberty][2]) In this post I will try to first share my understanding of this essay and emphasise the importance and usefulness of having this distinction in mind for our political discourse. Finally, I want to hint at insufficiency of this dichotomy in characterizing the notion of liberty in the realms of participation in shared political projects and also in relationships and love. 
