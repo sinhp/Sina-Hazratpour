@@ -39,7 +39,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: rgb(255,0,0);
+    color: #999 ;
 }
 
 a:hover {
@@ -51,11 +51,11 @@ a:hover {
 
 
 .article {
-  color: rgb(255,0,0);
+  color: #999 ;
   &__datetime {
     float: right;
     line-height: 2.1rem;
-    color: rgb(255,0,0);
+    color: #333 ;
     }
   &__footer {
     margin-top: 1.5em;
