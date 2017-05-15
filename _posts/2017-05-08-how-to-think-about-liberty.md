@@ -3,7 +3,7 @@ layout: post
 title: How to think about liberty?
 date: 2017-05-08
 comments: true
-thumbnail: Book-thumbnail.jpg
+thumbnail: Freiheit.jpg
 ---
 
 
@@ -41,7 +41,7 @@ The idea of negative and positive liberty is not due to Berlin hismself and goes
 
 
 <figure>
-	<img src="{{ site.baseurl }}/Book-thumbnail.jpg" alt="image">
+	<img src="{{ site.baseurl }}/images/Freiheit.jpg" alt="image">
 	<figcaption>
 	
 	</figcaption>
