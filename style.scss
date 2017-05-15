@@ -39,7 +39,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: $blue ;
+    color: $black ;
 }
 
 a:hover {
@@ -51,11 +51,11 @@ a:hover {
 
 
 .article {
-  color: $blue ;
+  color: $black ;
   &__datetime {
     float: right;
     line-height: 2.1rem;
-    color: $blue ;
+    color: $black ;
     }
   &__footer {
     margin-top: 1.5em;
@@ -113,11 +113,11 @@ p {
 }
 
 a {
-  color: $midnight-blue;
+  color: $red;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $midnight-blue;
+    color: $red;
   }
 }
 
