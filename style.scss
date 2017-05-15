@@ -88,7 +88,16 @@ a:hover {
         height: 150px;
         background: rgba(255, 255, 255, .4);
         }
-
+SPAN {
+      display: inline-block;
+      position: relative;
+      z-index: 1;
+      vertical-align: middle;
+      width: 90%;
+      font-size: 1.2em;
+      font-style: italic;
+      transition: all .4s;
+      }
 	  
 &--home {
       background-image: url(http://img-fotki.yandex.ru/get/5314/5091629.67/0_5ba15_745b5d41_orig.png);
