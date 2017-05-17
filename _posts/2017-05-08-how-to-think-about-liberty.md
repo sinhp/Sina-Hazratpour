@@ -6,9 +6,9 @@ comments: true
 thumbnail: Freiheit.jpg
 ---
 
-<figure>
-	<img src="{{ site.baseurl }}/images/Freiheit.jpg" alt="Freiheit" >	
-</figure>
+
+<div class="thumbnail">	<img src="{{ site.baseurl }}/images/Freiheit.jpg" alt="Freiheit" >	
+
 
 
 
