@@ -7,7 +7,7 @@ thumbnail: Freiheit.jpg
 ---
 
 <figure>
-	<img src="{{ site.baseurl }}/images/Freiheit.jpg" alt="image">	
+	<img src="{{ site.baseurl }}/images/Freiheit.jpg" alt="image" width="360" height="240">	
 </figure>
 
 
