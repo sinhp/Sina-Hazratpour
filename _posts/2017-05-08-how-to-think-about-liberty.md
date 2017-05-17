@@ -20,7 +20,7 @@ I recently read Isaiah Berlin's famous essay [two concepts of liberty][1] in whi
 For the purpose of this post, I merely intend to report my understanding of his formulation of the crucial distinction between theses two concepts of liberty and the importance and usefulness of having this distinction in mind for our political discourse. However, before we delve into our philsophical contemplation, here is a pretty cool [BBC documentary][3] featuring an interview with him.  iI you are curious about Berlin's personality and his life, I will totally recommend it. You will learn amazing facts about his interactions with giant intellectuals of 20th century, most notably J. L. Austin, A. J. Ayer, Ludwig Wittgenstein, John Maynard Keynes and Virginia Woolf. His views about political upheavals of 20th century is enlightening as well. For instance, he mentions somewhere in the interview that the conservative British politicians from his college, All Soul College Oxford, such as Sir John Simon, Secretary of State for Foreign Affairs (1931-1935), regarded Soviet communism idealogically far worse than Nazi Germany and Hitler and Fascist Italy and considered growth of these dictatorial regimes as a shield against spread of communism!!! 
 
 
-<iframe width="400" height="300" src="https://www.youtube.com/embed/zDAGngAc9_M" frameborder="0" allowfullscreen></iframe>
+<iframe width="340" height="260" src="https://www.youtube.com/embed/zDAGngAc9_M" frameborder="0" allowfullscreen></iframe>
 
 
 
