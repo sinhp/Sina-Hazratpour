@@ -7,7 +7,7 @@ thumbnail: Freiheit.jpg
 ---
 
 
-<div class="thumbnail">	<img src="{{ site.baseurl }}/images/Freiheit.jpg" alt="Freiheit" >	
+<div class="thumbnail">	<img src="{{ site.baseurl }}/images/Freiheit.jpg" alt="Freiheit" >	</div>
 
 
 
