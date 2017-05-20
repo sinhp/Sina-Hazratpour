@@ -54,9 +54,7 @@ First, the idea of negative and positive liberty is not due to Berlin hismself a
 
 > The "positive" sense of the word "liberty" derives from the wish on the part of the individual to be his own master. 
 
-He goes on to formulate two crucial and definitive aspects of positive liberty: [autonomy][4] and self-realization. It is certianly far beyond the scope of this post to say anything intelligible about autonomy except that to refer the reader to the link above. 
-
-Having had the experience of teaching, tutoring, and demonstrating mathematics to all sort of folks on numeruous occasssions, it seems appealing and palpable to me, and most likely to most people, to explain self-relization and its relation to the notion of positive liberty by the use of following analogy.   
+He goes on to identify two crucial and definitive components of positive liberty: [autonomy][4] and self-realization, the concepts that arise time and time again in works of Rousseau, Kant, Herder, Hegel, Marx, and many of their disciples. In positive conception of liberty, the only true method of attaining freedom, he writes, is by the use of critical reason, the understanding of what is necessary and what is [contingent][5]. 
 
 
 Finally, I want to hint at insufficiency of this dichotomy in characterizing the notion of liberty in the realms of participation in shared political projects and also in relationships and love. 
@@ -69,7 +67,9 @@ Finally, I want to hint at insufficiency of this dichotomy in characterizing the
 > But if we are not armed with an _a priori_ guarantee of the proposition that a total harmony o true values is somewhere to be found- perhaps in some ideal realm the characteristics which we can, in our finite state, not so much as conceive- we must fall back on the ordinary resources of empirical observation and ordinary human knowledge. And these certainly give us no warrant for supporting (or even understanding what would be meant by saying) that all good things, or all bad things for that matter, are reconcilable with each other. The world that we encounter in ordinary experience is one in which we are faced with choices between ends equally ultimate, and claims equally absolute, the realization of some of which must inevitably involve the sacrifice of others. Indeed, it is because this is their situation that men place such immense values upon the freedom to choose.     
 
 
+[Hegel] [6]
 
+> The problem is to find a form of association which will defend and protect with the whole common force the person and goods of each associate, and in which each, while uniting himself with all, may still obey himself alone, and remain as free as before.'
 
 
 
@@ -77,3 +77,5 @@ Finally, I want to hint at insufficiency of this dichotomy in characterizing the
 [2]: https://plato.stanford.edu/entries/liberty-positive-negative/
 [3]: https://www.youtube.com/watch?v=zDAGngAc9_M
 [4]: https://plato.stanford.edu/entries/autonomy-moral/
+[5]: https://wiki2.org/en/Contingency_(philosophy)
+[6]: https://www.marxists.org/reference/subject/philosophy/works/ot/pelczyns.htm
