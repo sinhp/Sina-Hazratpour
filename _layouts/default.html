@@ -4,7 +4,12 @@
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
+    {% if site.google_analytics and jekyll.environment == 'production' %}
     {% include analytics.html %}
+    {% endif %}
+	  
+	  
+	  
 	{% if page.thumbnail %}
 	<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/images/{{ page.thumbnail }}">
 	{% else %}
