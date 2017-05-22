@@ -13,6 +13,24 @@ avatar: https://avatars2.githubusercontent.com/u/12698604?v=3
 # Flags below are optional
 #
 
+
+sections:
+    - research
+    - programming
+    - computer
+    - life
+    - misc
+    - archive
+    - tags
+
+
+
+
+
+
+
+
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
