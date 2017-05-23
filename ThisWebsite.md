@@ -25,4 +25,6 @@ But if you are, like me, an academic and want to publish your website with the h
 
 ### How to write maths with Jekyll? 
 
+**MathJax** is an open source JavaScript display engine for mathematics that works in all browsers.
+
 [Kramdown](https://kramdown.gettalong.org/) comes with optional support for LaTeX to PNG rendering via MathJax within math blocks. This [blogpost](http://gastonsanchez.com/visually-enforced/opinion/2014/02/16/Mathjax-with-jekyll/) has a good tutorial on how to use MathJax with Jekyll.  
