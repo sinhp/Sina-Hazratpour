@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Building your own website with Jekyll Now
-permalink: /ThisWebsite/
+permalink: /Jekyll/
 ---
 
 
@@ -19,6 +19,7 @@ You can do so much with Jekyll. Some of the best web developers use it for build
 But if you are, like me, an academic and want to publish your website with the help of Jekyll as fast as possible and not necessarily concerned about how fancy your website should look like, you may be interested in reading
 [Github for academics](http://blogs.lse.ac.uk/impactofsocialsciences/2013/06/04/github-for-academics/).
 
+Also, a really cool maths blog on discrete geometry, graph theory, and other stuff built by Jekyll: [11011110](https://11011110.github.io/blog/)
 
 <!--- Write more here about the knowledge economy and more open ways of sharing knowledge
 [Punctum](https://punctumbooks.com/blog/here-be-monsters-a-punctum-publishing-primer/) -->
@@ -27,4 +28,4 @@ But if you are, like me, an academic and want to publish your website with the h
 
 **MathJax** is an open source JavaScript display engine for mathematics that works in all browsers.
 
-[Kramdown](https://kramdown.gettalong.org/) comes with optional support for LaTeX to PNG rendering via MathJax within math blocks. This [blogpost](http://gastonsanchez.com/visually-enforced/opinion/2014/02/16/Mathjax-with-jekyll/) has a good tutorial on how to use MathJax with Jekyll.  
+[Kramdown](https://kramdown.gettalong.org/) comes with optional support for LaTeX to PNG rendering via MathJax within math blocks. This [blogpost](http://gastonsanchez.com/visually-enforced/opinion/2014/02/16/Mathjax-with-jekyll/) has a good tutorial on how to use MathJax with Jekyll. Also, you will probably find the official [MathJax](http://docs.mathjax.org/en/latest/start.html) website useful.
