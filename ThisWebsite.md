@@ -11,7 +11,7 @@ This website is hosted on **GitHub** and it is created by [**Jekyll Now**](http:
 Make sure you check this [guide](http://jmcglone.com/guides/github-pages/) as well. Personally, I found it very useful and succinct. 
 
 
-## Why Github at all? 
+## Why Jekyll at all? 
 
 You can do so much with Jekyll. Some of the best web developers use it for building their own websites. Here is a good examples:
 [CSS Wizardy](https://csswizardry.com/about/).
