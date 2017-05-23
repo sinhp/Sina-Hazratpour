@@ -20,5 +20,9 @@ But if you are, like me, an academic and want to publish your website with the h
 [Github for academics](http://blogs.lse.ac.uk/impactofsocialsciences/2013/06/04/github-for-academics/).
 
 
-Write more here about the knowledge economy and more open ways of sharing knowledge
-[Punctum](https://punctumbooks.com/blog/here-be-monsters-a-punctum-publishing-primer/)
+<!--- Write more here about the knowledge economy and more open ways of sharing knowledge
+[Punctum](https://punctumbooks.com/blog/here-be-monsters-a-punctum-publishing-primer/) -->
+
+### How to write maths with Jekyll? 
+
+[Kramdown](https://kramdown.gettalong.org/) comes with optional support for LaTeX to PNG rendering via MathJax within math blocks. This [blogpost](http://gastonsanchez.com/visually-enforced/opinion/2014/02/16/Mathjax-with-jekyll/) has a good tutorial on how to use MathJax with Jekyll.  
