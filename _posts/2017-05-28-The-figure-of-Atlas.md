@@ -21,9 +21,9 @@ On this archaic figure, Wikipedia page says:
 
 What got me really curious into the figure of the Atlas was its philosophical reading by the famous contemporary German philosopher [Peter Sloterdijk][2]. It appears in the volume [_Globen_][3] of the celebrated magnum opus _Sphären_ trilogy. (First one is _Bubbles_ and the last one is _Foams_). According to Sloterdijk, the Atlas should be understood as one of crucial moments in transition of the notion of globe from Greek world to the Roman world and hence it does play a significant role in developement of history of ideas of the globe to its final present culmination as the _**fundamental picture of the world**_. (picture of the world is a Heideggerian term which connotes the world conceived and grasped as picture, rather than a picture of the world; it is a system that stands before subjects, in which all things belong to and all things stand together. You can read Heidegger's 1938 essay: [The Age of the World Picture][5].)
 
-### Ancient Greek elements 
+## Ancient Greek elements 
 
-#### The Orb
+### The Orb
 
 Sloterdijk argues that full-sphere shaped globe as opposed to a hemisphere indicates the deep impact of scientific thought and imperial concept over mythical pre-theoretical view of world one finds in old Homeric [Uranus][7]. He writes: 
 
@@ -31,7 +31,7 @@ Sloterdijk argues that full-sphere shaped globe as opposed to a hemisphere indic
 
 Use of the word [_Sphaira_][8] in contrast with mathematically conceived _sphere_ in the quote above signifies a _common conceit of the pictorial language of power_.   
 
-#### Argo
+### Argo
 
 One of the obvious elements of the picture which strikes the eyes is the mythical Greek ship, the Argo. It is held that Argo was planned or constructed by the help of Athena, and it was the first ship to sail the seas. 
 
