@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About me
-permalink: /about/
+title: Curriculum Vitae
 ---
 
 Here is my [Curriculum Vitae](assets/CV-Sina.pdf).
