@@ -23,7 +23,7 @@ What got me really curious into the figure of the Atlas was its philosophical re
 
 ### Elements of the picture
 
-One of the fist thing which strikes the eyes in the picture above is perhaps the mythical Greek ship, the Argo. It is held that Argo was planned or constructed by the help of Athena, and it was the first ship to sail the seas. 
+One of the first things which strikes the eyes in the picture above is perhaps the mythical Greek ship, the Argo. It is held that Argo was planned or constructed by the help of Athena, and it was the first ship to sail the seas. 
 
 Wikipedia page tells us:
 
@@ -34,10 +34,10 @@ Argo is depicted as half-ship on the globe on the shoulders of the Atlas since i
 
 More on details of the picture, Sloterdijk writes: 
 
-> The ship is flanked on the right by centaurs, above whom Hydra and Crater can be recongnized 
+> The ship is flanked on the right by centaurs, above whom Hydra and [Crater][6] can be recognized; one the left, it is flanked by the figure of Canis Major. With each of these pictures, there is connected a micro-universe of tales, thanks to which the events of the world are inscribed amongst the images of scenic movement. If the spharia as perfected figure readies the philosophical subduing of of beings in a single sublime silhouette, the inscription of the constellations bears the witness to the memory of primal dramas of life in their prototypical sequence. Aby Warburg has celebrated the constellated celestial globe as the true manifestation of Greek genius-as the human synthesis of mathematics and poetry. 
 
 
-<div class="thumbnail">	<img src="https://wiki2.org/en/File:Sidney_Hall_-_Urania%27s_Mirror_-_Noctua,_Corvus,_Crater,_Sextans_Urani%C3%A6,_Hydra,_Felis,_Lupus,_Centaurus,_Antlia_Pneumatica,_Argo_Navis,_and_Pyxis_Nautica.jpg#/media/File:Sidney_Hall_-_Urania%27s_Mirror_-_Noctua,_Corvus,_Crater,_Sextans_Urani%C3%A6,_Hydra,_Felis,_Lupus,_Centaurus,_Antlia_Pneumatica,_Argo_Navis,_and_Pyxis_Nautica.jpg" alt="Atlas" >	</div>
+<div class="thumbnail">	<img src="{{ site.baseurl }}/images/Hydra-Crater.jpg" alt="Crater" >	</div>
 
 
 
@@ -50,3 +50,4 @@ More on details of the picture, Sloterdijk writes:
 [3]: https://mitpress.mit.edu/books/globes
 [4]: http://culturalpolitics.dukejournals.org/content/3/3/393.short
 [5]: http://www2.fiu.edu/~ereserve/010037770-1.pdf
+[6]: https://wiki2.org/en/Crater_(constellation)
