@@ -12,7 +12,7 @@ thumbnail: atlas.jpg
 
 ## The first glance 
 
-This nearly 2 meter high Hellenistic sculpture depicts the [Atlas][1] or more commonly known, the **Farnese Atlas**. The monumental work was first discovered in Rome in 1575, and was then identified as the heavenly sphere-bearing Atlas, the Titan condemned to hold up the sky for eternity from Greek mythology. The name Farnese comes from Cardinal Alessandro Farnese who acquired the sculpture in the early 16th century, and found its home in the antiquities collection of the Farnese house. Today, it is located in Museo Nazionale in Naples.    
+This nearly 2 meter high Hellenistic sculpture depicts [Atlas][1] or more commonly known, the **Farnese Atlas**. The monumental work was first discovered in Rome in 1575, and was then identified as the heavenly sphere-bearing Atlas, the Titan condemned to hold up the sky for eternity from Greek mythology. The name Farnese comes from Cardinal Alessandro Farnese who acquired the sculpture in the early 16th century, and found its home in the antiquities collection of the Farnese house. Today, it is located in Museo Nazionale in Naples.    
 
 
 On this archaic figure, Wikipedia page says: 
@@ -27,17 +27,17 @@ What got me really curious into the figure of the Atlas was its philosophical re
 
 Sloterdijk argues that full-sphere shaped globe as opposed to a hemisphere indicates the deep impact of scientific thought and imperial concept over mythical pre-theoretical view of world one finds in old Homeric [Uranus][7]. He writes: 
 
-> In the first place, the ball on his shoulders and between his hands is no longer the old Homeric or Hesiodic heaven whose bearer the Titan of the myth was ordered to be by Zeus as punishment for his participation in the insurgency of the earthly, old gods against the Olympians.In fact, the old Homeric Uranos can be represented not as a sphaira, but rather only as a hemisphere over the flat Earth ... On the other hand, it is a testament to the truiumph of the Greek enlightenment that the modern mathematical full sphere is loaded upon the archaic Titanic form. What Atlas bears on his shoulders is precisely the heaven of philosophers, synonymous with the world as a whole or the cosmos since Plato and Aristotle. ... Thus what Titan bears upon his shouldes represents a poetic-scientific bastard heaven, a product of geometry as much as mythology.     
+> In the first place, the ball on his shoulders and between his hands is no longer the old Homeric or Hesiodic heaven whose bearer the Titan of the myth was ordered to be by Zeus as punishment for his participation in the insurgency of the earthly, old gods against the Olympians.In fact, the old Homeric Uranos can be represented not as a sphaira, but rather only as a hemisphere over the flat Earth ... On the other hand, it is a testament to the triumph of the Greek enlightenment that the modern mathematical full sphere is loaded upon the archaic Titanic form. What Atlas bears on his shoulders is precisely the heaven of philosophers, synonymous with the world as a whole or the cosmos since Plato and Aristotle. ... Thus what Titan bears upon his shoulders represents a poetic-scientific bastard heaven, a product of geometry as much as mythology.     
 
 Use of the word [_Sphaira_][8] in contrast with mathematically conceived _sphere_ in the quote above signifies a _common conceit of the pictorial language of power_.   
 
 ### Argo
 
-One of the obvious elements of the picture which strikes the eyes is the mythical Greek ship, the Argo. It is held that Argo was planned or constructed by the help of Athena, and it was the first ship to sail the seas. 
+One of the obvious elements of the picture which strikes the eyes is the mythical Greek ship, Argo. It is held that Argo was planned or constructed by the help of Athena, and it was the first ship to sail the seas. 
 
 Wikipedia page tells us:
 
->After her successful journey, the Argo was consecrated to Poseidon in the Isthmus of Corinth. She was then translated into the sky and turned into the constellation Argo Navis.
+>After her successful journey, Argo was consecrated to Poseidon in the Isthmus of Corinth. She was then translated into the sky and turned into the constellation Argo Navis.
 
 Argo is depicted as half-ship on the globe on the shoulders of the Atlas since it emerges only half-way in the south of winter sky. 
 
