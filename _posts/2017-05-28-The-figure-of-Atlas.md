@@ -17,7 +17,9 @@ This nearly 2 meter high Hellenistic sculpture in depicts the [Atlas][1] or more
 
 On this archaic figure, Wikipedia page says: 
 
->Atlas labors under the weight because he had been sentenced by Zeus to hold up the sky. The globe shows a depiction of the night sky as >seen from outside the outermost celestial sphere, with low reliefs depicting 41 (some sources say 42) of the 48 classical Greek >constellations distinguished by Ptolemy, including; Aries the ram, Cygnus the swan and Hercules the hero. The Farnese Atlas is the oldest >surviving pictorial record of Western constellations.
+>Atlas labors under the weight because he had been sentenced by Zeus to hold up the sky. The globe shows a depiction of the night sky as seen from outside the outermost celestial sphere, with low reliefs depicting 41 (some sources say 42) of the 48 classical Greek constellations distinguished by Ptolemy, including; Aries the ram, Cygnus the swan and Hercules the hero. The Farnese Atlas is the oldest surviving pictorial record of Western constellations.
+
+What got me really curious into the figure of the Atlas was its philosophical reading by the famous contemporary German philosopher [Peter Sloterdijk][2]. It appears in the volume [_Globen_][3] of the celebrated magnum opus _Sphären_ trilogy. (First one is _Bubbles_ and the last one is _Foams_). According to Sloterdijk, the Atlas should be understood as one of crucial moments in transition of the notion of globe from Greek world to the Roman world and hence it does play a significant role in developement of history of ideas of the globe as the fundamental picture of the world. 
 
 
 
@@ -28,3 +30,5 @@ On this archaic figure, Wikipedia page says:
 
 
 [1]: https://wiki2.org/en/Atlas_(mythology)
+[2]: https://mitpress.mit.edu/authors/peter-sloterdijk
+[3]: https://mitpress.mit.edu/books/globes
