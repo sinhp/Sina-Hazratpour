@@ -23,11 +23,15 @@ What got me really curious into the figure of the Atlas was its philosophical re
 
 ### Ancient Greek elements 
 
+#### The Orb
+
 Sloterdijk argues that full-sphere shaped globe as opposed to a hemisphere indicates the deep impact of scientific thought and imperial concept over mythical pre-theoretical view of world one finds in old Homeric [Uranus][7]. He writes: 
 
 > In the first place, the ball on his shoulders and between his hands is no longer the old Homeric or Hesiodic heaven whose bearer the Titan of the myth was ordered to be by Zeus as punishment for his participation in the insurgency of the earthly, old gods against the Olympians.In fact, the old Homeric Uranos can be represented not as a sphaira, but rather only as a hemisphere over the flat Earth ... On the other hand, it is a testament to the truiumph of the Greek enlightenment that the modern mathematical full sphere is loaded upon the archaic Titanic form. What Atlas bears on his shoulders is precisely the heaven of philosophers, synonymous with the world as a whole or the cosmos since Plato and Aristotle. ... Thus what Titan bears upon his shouldes represents a poetic-scientific bastard heaven, a product of geometry as much as mythology.     
 
 Use of the word [_Sphaira_][8] in contrast with mathematically conceived _sphere_ in the quote above signifies a _common conceit of the pictorial language of power_.   
+
+#### Argo
 
 One of the obvious elements of the picture which strikes the eyes is the mythical Greek ship, the Argo. It is held that Argo was planned or constructed by the help of Athena, and it was the first ship to sail the seas. 
 
