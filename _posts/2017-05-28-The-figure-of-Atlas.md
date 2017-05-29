@@ -27,9 +27,9 @@ Sloterdijk argues that full-sphere shaped globe as opposed to a hemisphere indic
 
 > In the first place, the ball on his shoulders and between his hands is no longer the old Homeric or Hesiodic heaven whose bearer the Titan of the myth was ordered to be by Zeus as punishment for his participation in the insurgency of the earthly, old gods against the Olympians.In fact, the old Homeric Uranos can be represented not as a sphaira, but rather only as a hemisphere over the flat Earth ... On the other hand, it is a testament to the truiumph of the Greek enlightenment that the modern mathematical full sphere is loaded upon the archaic Titanic form. What Atlas bears on his shoulders is precisely the heaven of philosophers, synonymous with the world as a whole or the cosmos since Plato and Aristotle. ... Thus what Titan bears upon his shouldes represents a poetic-scientific bastard heaven, a product of geometry as much as mythology.     
 
+Use of the word [_Sphaira_][8] in contrast with mathematically conceived _sphere_ in the quote above signifies a _common conceit of the pictorial language of power_.   
 
-
-One of the first things which strikes the eyes in the picture above is perhaps the mythical Greek ship, the Argo. It is held that Argo was planned or constructed by the help of Athena, and it was the first ship to sail the seas. 
+One of the obvious elements of the picture which strikes the eyes is the mythical Greek ship, the Argo. It is held that Argo was planned or constructed by the help of Athena, and it was the first ship to sail the seas. 
 
 Wikipedia page tells us:
 
@@ -58,3 +58,4 @@ More on details of the picture, Sloterdijk writes:
 [5]: http://www2.fiu.edu/~ereserve/010037770-1.pdf
 [6]: https://wiki2.org/en/Crater_(constellation)
 [7]: https://wiki2.org/en/Uranus_(mythology)
+[8]: http://www.oxfordreference.com/view/10.1093/acref/9780195046526.001.0001/acref-9780195046526-e-5080
