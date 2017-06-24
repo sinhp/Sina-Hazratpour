@@ -11,7 +11,7 @@ thumbnail: Dahrendorf-World-Economic-Forum.jpg
 
 
 
-I was introduced to Ralf Dahrendorf in a paper entitled [The Politics of Public Debt][1] by [Wolfgang Streeck][2], a prominent contemporary 
+I was introduced to _Ralf Dahrendorf_ in a paper entitled [The Politics of Public Debt][1] by [Wolfgang Streeck][2], a prominent contemporary 
 German economic sociologist. In that paper, he cites Dahrendorf's essay [Vom Sparkapitalismus zum Pumpkapitalismus][3] whereby he credits 
 him for coining the term "Pumpkapitalismus". Here is the pertinent excerpt: 
 
@@ -29,7 +29,7 @@ So, I searched his name on Google and ended up watching one interview of him fro
 (video series on international affairs) hosted by UC Berkeley's Harry Kreisler recorded on April 4, 1989. His eloquence and breadth 
 of knowledge are remarkable in this interview.  
 
-<iframe width="350" height="240" src="https://www.youtube.com/watch?v=Yj5pVe6hOZo&t=5s" frameborder="0" allowfullscreen></iframe>
+<iframe width="350" height="240" src="https://youtu.be/Yj5pVe6hOZo" frameborder="0" allowfullscreen></iframe>
 
 Ralf Gustav Dahrendorf was born in Hamburg on May 1 1929. In the summer of 1939 , His father, a former Social Democrat deputy in the Reichstag, like many other SDP MPs, was arrested by the Nazis when they came to power. He was educated at the Heinrich-Hertz Oberschule, 
 and was sent to a concentration camp at age fifteen, accused of anti-Nazi activities. According to the interview he luckily survived,
