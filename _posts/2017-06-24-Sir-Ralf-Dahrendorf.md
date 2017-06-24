@@ -27,11 +27,10 @@ and restore economic performance (“Pumpkapitalismus”15).
 
 So, I searched his name on Google and ended up watching one interview of him from the series _Conversations with History_ 
 (video series on international affairs) hosted by UC Berkeley's Harry Kreisler recorded on April 4, 1989. His eloquence and breadth 
-of knowledge are remarkable in this interview.  
+of knowledge are remarkable in [this interview][4].  
 
-<iframe width="350" height="240" src="https://youtu.be/Yj5pVe6hOZo" frameborder="0" allowfullscreen></iframe>
 
-Ralf Gustav Dahrendorf was born in Hamburg on May 1 1929. In the summer of 1939 , His father, a former Social Democrat deputy in the Reichstag, like many other SDP MPs, was arrested by the Nazis when they came to power. He was educated at the Heinrich-Hertz Oberschule, 
+Ralf Gustav Dahrendorf was born in Hamburg on May 1 1929. In the summer of 1939, His father, a former Social Democrat deputy in the Reichstag, like many other SDP MPs, was arrested by the Nazis when they came to power. He was educated at the Heinrich-Hertz Oberschule, 
 and was sent to a concentration camp at age fifteen, accused of anti-Nazi activities. According to the interview he luckily survived,
 and after the war enrolled at Hamburg University, where he read Classics and Philosophy. He became a doctor of philosophy and classics (PhD) in 1952, and after that he decided to go to London, to study sociology at LSE. 
 
@@ -49,3 +48,4 @@ My goal in this essay is to highlight one crucial point he makes in the intervie
 [1]: http://www.mpifg.de/pu/mpifg_dp/dp13-7.pdf
 [2]: https://wiki2.org/en/Wolfgang_Streeck 
 [3]: http://cicero.de/weltb%C3%BChne/vom-sparkapitalismus-zum-pumpkapitalismus/39922
+[4]: https://www.youtube.com/watch?v=Yj5pVe6hOZo&t=5s
