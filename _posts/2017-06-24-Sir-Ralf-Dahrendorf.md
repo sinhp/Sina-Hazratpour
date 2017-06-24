@@ -7,7 +7,7 @@ thumbnail: Dahrendorf-World-Economic-Forum.jpg
 ---
 
 
-<div class="thumbnail">	<img src="{{ site.baseurl }}/images/Dahrendorf-World-Economic-Forum.jpg" alt="Atlas" >	</div>
+<div class="thumbnail">	<img src="{{ site.baseurl }}/images/Dahrendorf-World-Economic-Forum.jpg" alt="World-economics-forum" >	</div>
 
 
 
