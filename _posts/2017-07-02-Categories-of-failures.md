@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Categories of failures of nations? 
-date: 2017-07-01
+date: 2017-07-02
 comments: true
 ---
 
