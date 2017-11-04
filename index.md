@@ -25,7 +25,7 @@ University of Birmingham, UK <br>
 
 
 <p align="justify" style="max-width:600px">
-I am a researcher in foundation of mathematics and theoretical computer science. My main research interests include categorical logic, type theory, topos theory, and higher category theory. My advisor is <a href="https://www.cs.bham.ac.uk/~sjv/" target="_blank">Prof. Steve Vickers </a> a member of the <a href="https://www.cs.bham.ac.uk/research/groupings/theory/" target="_blank">Theory of Computation </a> group at University of Birmingham. You can find more about my <a href="/phil-blog" target="_blank">research work</a>. 
+I am a researcher in foundation of mathematics and theoretical computer science. My main research interests include categorical logic, type theory, topos theory, and higher category theory. My advisor is <a href="https://www.cs.bham.ac.uk/~sjv/" target="_blank">Prof. Steve Vickers </a> a member of <a href="https://www.cs.bham.ac.uk/research/groupings/theory/" target="_blank">Theory of Computation </a> group at University of Birmingham. You can find more about my <a href="/peripatetic-thoughts" target="_blank">research work</a>. 
 </p>
 
 <a href="/peripatetic-thoughts" target="_blank"><img src="images/HegelMarx.png" alt="" style="width:275px;" align="right"></a>
@@ -33,7 +33,7 @@ I am a researcher in foundation of mathematics and theoretical computer science.
 
 ## Non-academic interests
 <p align="justify" style="max-width:600px">
-I am fond of remote places in nature, museums, hiking, and photography. Moreover, I am a reader of philosophy and history of philosophical thoughts and enjoy discussing them any opportunity I find. In particular, among classics, I read Plato, Voltaire, Kant, Hegel, and among contemporaries Wittgenstein, Searle, Foucault, and Badiou are closer to my taste. I used to find more free time during my undergraduate and masters years to read these folks but during my PhD years I do regret that I do not have enough time to commit myself more seriously to reading some of heftier books. Ocassionally, I will write some of my thoughts on range of issues of philosphical nature in <a href="/phil-blog">Philsophical contemplation</a> page. If you like to discuss those ideas further, I would appreciate if you leave your comments under the posts. 
+I am fond of remote places in nature, museums, hiking, and photography. Moreover, I am a reader of philosophy and history of philosophical thoughts and enjoy discussing them any opportunity I find. In particular, among classics, I read Plato, Voltaire, Kant, Hegel, and among contemporaries Wittgenstein, Searle, Foucault, and Badiou are closer to my taste. I used to find more free time during my undergraduate and masters years to read these folks but during my PhD years I do regret that I do not have enough time to commit myself more seriously to reading some of heftier books. Ocassionally, I will write some of my thoughts on range of issues of philosphical nature in <a href="/peripatetic-thoughts">Philsophical contemplation</a> page. If you like to discuss those ideas further, I would appreciate if you leave your comments under the posts. 
 </p>
 
 ### This website
