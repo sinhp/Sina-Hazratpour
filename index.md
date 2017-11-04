@@ -7,7 +7,7 @@ title: Sina's Blog
 <!-- {% include image.html url="/images/me2.jpeg" caption="Dhawal Joharapurkar" width=275 align="right" %} -->
 
 
-
+<div class="blurb">
 
 # Sina Hazratpour    <a href="/images/atlas.jpg" target="_blank"><img src="images/atlas.jpg" alt="Sina" style="width:275px;" align="right"></a>
 Ph.D. Student, Computer Science <br>
@@ -45,6 +45,6 @@ This website is hosted on <b>GitHub</b> and it is created by <b>Jekyll Now</b>. 
 	
 
 
-
+</div><!-- /.blurb -->
 
 
