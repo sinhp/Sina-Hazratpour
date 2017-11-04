@@ -38,7 +38,7 @@ I am fond of remote places in nature, museums, hiking, and photography. Moreover
 
 ### This website
 <p align="justify" style="max-width:600px">
-This website is hosted on <b>GitHub</b> and it is created by <b>Jekyll Now</b>. If you would like to know more, please visit <a href="/ThisWebsite">here</a>. 
+This website is hosted on <b>GitHub</b> and it is created by <b>Jekyll Now</b>. If you would like to know more, please visit <a href="/Jekyll">here</a>. 
 </p>
 	
 
