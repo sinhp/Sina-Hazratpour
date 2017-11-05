@@ -36,7 +36,18 @@ I am fond of remote places in nature, museums, hiking, and photography. Moreover
 This website is hosted on <b>GitHub</b> and it is created by <b>Jekyll Now</b>. If you would like to know more, please visit <a href="/Jekyll">here</a>. 
 </p>
 	
+<div class="footer-col footer-col-3">
+      <small>
+        <b>Last Updated:</b> {{'now' | date: "%h %d, %Y"}}
+        </small>
+        <!-- <p><b><em>Address: </em></b>Room E32, Engineering 2 <br /></p>
+        <a href="http://www.ucsc.edu/" target="_blank"><img src="/images/ucsc.png" alt="University of California, Santa Cruz" style="width:204px;height:64px;"></a> -->
 
+        <!-- Department of Computer Science </br> -->
+        <!-- University of California, Santa Cruz</br> -->
+        <!-- {{ site.description }} -->
+        </p>
+</div>
 
 
 
