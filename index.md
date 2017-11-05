@@ -21,7 +21,7 @@ University of Birmingham, UK <br>
 ## About Me 
 
 <p align="justify" style="max-width:600px">
-I am a researcher in foundation of mathematics and theoretical computer science. My main research interests include categorical logic, type theory, topos theory, and higher category theory. My advisor is <a href="https://www.cs.bham.ac.uk/~sjv/" target=">Prof. Steve Vickers </a> a member of <a href="https://www.cs.bham.ac.uk/research/groupings/theory/">Theory of Computation </a> group at University of Birmingham. You can find more about my <a href="/Research">research work</a>. 
+I am a researcher in foundation of mathematics and theoretical computer science. My main research interests include categorical logic, type theory, topos theory, and higher category theory. My advisor is <a href="https://www.cs.bham.ac.uk/~sjv/">Prof. Steve Vickers</a> a member of <a href="https://www.cs.bham.ac.uk/research/groupings/theory/">Theory of Computation</a> group at University of Birmingham. You can find more about my <a href="/Research">research work</a>. 
 </p>
 
 
