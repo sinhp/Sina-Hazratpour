@@ -93,6 +93,6 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-modernist
+theme: jekyll-theme-cayman
 permalink: /blog/:year/:month/:day/:title
 
