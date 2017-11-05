@@ -12,7 +12,7 @@ University of Birmingham, UK <br>
 <!-- <em>Curriculum Vitae: </em><a href="">PDF</a>  <small>(September, 2017)</small> <br> -->
 <em>Email: </em><a href="mailto:sxh617@cs.bham.ac.uk">sxh617@cs.bham.ac.uk</a> <br>
 <!--|<a href="mailto:blahblah@gmail.com">blahblah@gmail.com</a> <br> -->
-<em>Office: </em>Computer Science Building Y9, room 118 485<br>
+<em>Office: </em>Computer Science Building Y9, room xyz(= the beginning of directory enquiries in both Iran and UK)  <br>
 <!-- <p><a href="http://doodle.com/sina" target="_blank">Meet me!</a> | <a href="http://flask.io/yoUm1" target="_blank">Assign me a task!</a> (please let me know you've added something!)</p> -->
 <hr width="600px">
 
@@ -21,7 +21,7 @@ University of Birmingham, UK <br>
 ## About Me 
 
 <p align="justify" style="max-width:600px">
-I am a researcher in foundation of mathematics and theoretical computer science. My main research interests include categorical logic, type theory, topos theory, and higher category theory. My advisor is <a href="https://www.cs.bham.ac.uk/~sjv/" target="_blank">Prof. Steve Vickers </a> a member of <a href="https://www.cs.bham.ac.uk/research/groupings/theory/" target="_blank">Theory of Computation </a> group at University of Birmingham. You can find more about my <a href="/Research" target="_blank">research work</a>. 
+I am a researcher in foundation of mathematics and theoretical computer science. My main research interests include categorical logic, type theory, topos theory, and higher category theory. My advisor is <a href="https://www.cs.bham.ac.uk/~sjv/" target=">Prof. Steve Vickers </a> a member of <a href="https://www.cs.bham.ac.uk/research/groupings/theory/">Theory of Computation </a> group at University of Birmingham. You can find more about my <a href="/Research">research work</a>. 
 </p>
 
 
