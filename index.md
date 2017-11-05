@@ -26,12 +26,12 @@ I am a researcher in foundation of mathematics and theoretical computer science.
 
 
 
-## Other interests 
+### Other interests 
 <p align="justify" style="max-width:600px">
 I am fond of remote places in nature, museums, hiking, and photography. Moreover, I am a reader of philosophy and history of philosophical thoughts and enjoy discussing them any opportunity I find. In particular, among classics, I read Plato, Voltaire, Kant, Hegel, and among contemporaries Wittgenstein, Searle, Foucault, and Badiou are closer to my taste. I used to find more free time during my undergraduate and masters years to read these folks but during my PhD years I do regret that I do not have enough time to commit myself more seriously to reading some of heftier books. Ocassionally, I will write some of my thoughts on range of issues of philosphical nature in <a href="/peripatetic-thoughts">Philsophical contemplation</a> page. If you like to discuss those ideas further, I would appreciate if you leave your comments under the posts. 
 </p>
 
-### This website 
+#### This website 
 <p align="justify" style="max-width:600px">
 This website is hosted on <b>GitHub</b> and it is created by <b>Jekyll Now</b>. If you would like to know more, please visit <a href="/Jekyll">here</a>. 
 </p>
